@@ -5,10 +5,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3  # Updated to v3
       - name: ESLint
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3  # Updated to v3
         with:
-          node-version: 10
+          node-version: '16'  # Update to a non-deprecated version (Node 16 or later)
       - run: npm ci
       - run: npm run eslint
