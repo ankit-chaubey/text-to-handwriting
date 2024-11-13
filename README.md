@@ -53,16 +53,12 @@ We welcome contributions! If you'd like to contribute to the project, please fol
 1. **Fork** the repository 🍴.
 2. **Submit** a pull request with your proposed changes 🔄.
 3. Ensure your code adheres to the **style guide** and includes tests where applicable 🧪.
-<<<<<<< HEAD
 4. [Checkout contribution guide](https://github.com/ankit-chaubey/text-to-handwriting/blob/main/CONTRIBUTING.md)
-=======
->>>>>>> 3f596d6efcbf7f8c9d7393e835e9a10acfe757db
 
 We look forward to your contributions! 🙌
 
 ---
 
-<<<<<<< HEAD
 ## 📚 Libraries used
 
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Turns DOM into Canvas.
@@ -71,8 +67,6 @@ We look forward to your contributions! 🙌
 - [serve](https://github.com/zeit/serve) - Start local server
 ---
 
-=======
->>>>>>> 3f596d6efcbf7f8c9d7393e835e9a10acfe757db
 ## 📜 License
 
 This project is licensed under the **MIT License**. For more details, please see the [LICENSE](LICENSE) file. 📑
@@ -81,14 +75,9 @@ This project is licensed under the **MIT License**. For more details, please see
 
 ## 🏅 Acknowledgements
 
-<<<<<<< HEAD
 - This project is currently managed and maintained by **[Ankit Chaubey](https://github.com/ankit-chaubey)**.
   
 -  Special thanks to **[Saurabh Daware](https://github.com/saurabhdaware)** for the original concept of the **Text to Handwriting** tool. This project is based on his work.
-=======
-- Special thanks to **[Saurabh Daware](https://github.com/saurabhdaware)** for the original concept of the **Text to Handwriting** tool. This project is based on his work.
-- This project is currently managed and maintained by **[Ankit Chaubey](https://github.com/ankit-chaubey)**.
->>>>>>> 3f596d6efcbf7f8c9d7393e835e9a10acfe757db
 
 ---
 
