@@ -12,7 +12,7 @@ This project is a fork of the [Text to Handwriting](https://github.com/saurabhda
 
 Follow these simple steps to use the tool:
 
-1. **Open** the [Text to handwriting](https://vasu-chaubey.github.io/text-to-handwriting-fork/) in your browser.
+1. **Open** the [Text to handwriting](https://ankit-chaubey.github.io/text-to-handwriting/) in your browser.
 2. **Type** your desired text in the input field.
 3. **Click** on "Generate image" to view the result.
 
