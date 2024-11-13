@@ -8,26 +8,13 @@ This project is a fork of the [Text to Handwriting](https://github.com/saurabhda
 - Customize the handwriting style (font, color, etc.).
 - Supports multiple font styles and various customization options.
 
-## Installation
-
-To get started with this project, clone the repository and install the necessary dependencies:
-
-1. Clone the repository:
-```bash
-git clone https://github.com/ankit-chaubey/text-to-handwriting.git && cd text-to-handwriting
-```
-2. Install the dependencies
-```
-npm install
-```
-
 ## Usage
 
 Follow these simple steps to use the tool:
 
-1. **Open** the `index.html` file in your browser.
+1. **Open** the [Text to handwriting](https://vasu-chaubey.github.io/text-to-handwriting-fork/) in your browser.
 2. **Type** your desired text in the input field.
-3. **Click** on "Generate Handwriting" to view the result.
+3. **Click** on "Generate image" to view the result.
 
 > **Note**: This feature is still under development. Currently, it is set up for personal use, and more features will be added later.
 
